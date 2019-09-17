@@ -1,0 +1,24 @@
+Script started on 2019-09-15 13:33:32-0500
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]2;exposedbuckle48@hpl-ubuntu: ~/Documents/Operating_Systems/Assignment_2]1;../Assignment_2[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-ubuntu[39m [1m[34m~/Documents/Operating_Systems/Assignment_2[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lshillebrand_assignment_2.txt  string_splitter.c
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]2;exposedbuckle48@hpl-ubuntu: ~/Documents/Operating_Systems/Assignment_2]1;../Assignment_2[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-ubuntu[39m [1m[34m~/Documents/Operating_Systems/Assignment_2[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hggcc string_splitter.c[1m [0m[0m -os  string_splitter.out -pthread[?1l>[?2004l
+]2;gcc string_splitter.c -o string_splitter.out -pthread]1;gcc[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]2;exposedbuckle48@hpl-ubuntu: ~/Documents/Operating_Systems/Assignment_2]1;../Assignment_2[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-ubuntu[39m [1m[34m~/Documents/Operating_Systems/Assignment_2[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004h../string_splitter.out[1m [0m[0m [?1l>[?2004l
+]2;./string_splitter.out]1;./string_splitter.outEnter your string: 
+This is a test of my tokenizer
+
+The tokenized string is:
+This
+is
+a
+test
+of
+my
+tokenizer
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]2;exposedbuckle48@hpl-ubuntu: ~/Documents/Operating_Systems/Assignment_2]1;../Assignment_2[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-ubuntu[39m [1m[34m~/Documents/Operating_Systems/Assignment_2[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2019-09-15 13:34:13-0500
