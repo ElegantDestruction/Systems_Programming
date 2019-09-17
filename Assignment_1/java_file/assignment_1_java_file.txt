@@ -1,0 +1,22 @@
+Script started on 2019-09-05 21:33:32-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="118" LINES="55"]
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/java_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file]1;..t_1/java_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hjjavac *.java[?1l>[?2004l
+]2;javac *.java]1;javac[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/java_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file]1;..t_1/java_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hjjava [?7l[31m......[39m[?7h[A[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file[39m[0m  
+╰─[39m➤ [39m java basic_search[1m [0m[K[0m [?1l>[?2004l
+]2;java basic_search]1;javaLine Entry: 
+We like UW-Stout
+Token Entry: 
+UW-Stout
+FOUND
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/java_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file]1;..t_1/java_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hjava basic_search[?1l>[?2004l
+]2;java basic_search]1;javaLine Entry: 
+We like UW-Stout
+Token Entry: 
+UW-Madison
+NOT FOUND
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/java_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file]1;..t_1/java_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/java_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2019-09-05 21:34:14-05:00 [COMMAND_EXIT_CODE="0"]

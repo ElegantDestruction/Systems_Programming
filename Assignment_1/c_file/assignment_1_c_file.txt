@@ -1,0 +1,24 @@
+Script started on 2019-09-05 21:29:31-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="118" LINES="55"]
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/c_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file]1;..ment_1/c_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004hggcc basc[?7l[31m......[39m[?7h[A[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m gcc basc[K [?7l[31m......[39m[?7h[A[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m gcc basic_search.c[1m [0m[K[0m -o basic_search.out[?1l>[?2004l
+]2;gcc basic_search.c -o basic_search.out]1;gcc[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/c_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file]1;..ment_1/c_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004h../basic[?7l[31m......[39m[?7h[A[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m ./basic_search.out[1m [0m[K[0m [?1l>[?2004l
+]2;./basic_search.out]1;./basic_search.outString Entry: 
+We like UW-Stout
+Token Entry: 
+UW-Stout
+FOUND
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/c_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file]1;..ment_1/c_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004h./basic_search.out[?1l>[?2004l
+]2;./basic_search.out]1;./basic_search.outString Entry: 
+We like UW-Stout
+Token Entry: 
+UW-Madison
+NOT FOUND
+[1m[7m%[27m[1m[0m                                                                                                                      ]7;file://hpl-fedora/home/exposedbuckle48/Documents/Semester_7/Operating_Systems/Assignment_1/c_file\]2;exposedbuckle48@hpl-fedora: ~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file]1;..ment_1/c_file[0m[27m[24m[J╭─[32mexposedbuckle48[39m[36m@[32mhpl-fedora[39m [1m[34m~/Documents/Semester_7/Operating_Systems/Assignment_1/c_file[39m[0m  
+╰─[39m➤ [39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2019-09-05 21:30:25-05:00 [COMMAND_EXIT_CODE="0"]
