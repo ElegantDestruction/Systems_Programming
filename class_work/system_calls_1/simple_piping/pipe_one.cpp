@@ -10,11 +10,13 @@ using namespace std;
 
 int main() {
 
-	size_t Maxsize = 80;
+	size_t Maxsize = 150;
 	int fd[2], nbytes;
 	pid_t childpid; 
-	char readbuffer[80];
-	char sharedStr[] = "Hello, CS442!\n";
+	char readbuffer[150];
+	char sharedStr_1[] = "Jacob Hillebrand\n";
+	char sharedStr_2[] = "Computer and Electrical Engineering Dept.\n";
+	char sharedStr_3[] = "hillebrandj3779@my.uwstout.edu\n";
 
 	if(pipe(fd)<0) { //create a pipe
 		exit(1); //error, no pipe was created
@@ -29,7 +31,9 @@ int main() {
 		//Child Process closes up input side of pipe
 		close(fd[0]);
 		//Send "string" through the output side of pip
-		write(fd[1], sharedStr, (strnlen(sharedStr, Maxsize)));
+		write(fd[1], sharedStr_1, (strnlen(sharedStr_1, Maxsize/3)));
+		write(fd[1], sharedStr_2, (strnlen(sharedStr_2, Maxsize/3)));
+		write(fd[1], sharedStr_3, (strnlen(sharedStr_3, Maxsize/3)));
 		exit(0);
 	}
 
@@ -41,7 +45,7 @@ int main() {
 
 		//Read in a string from the pipe
 		nbytes = read(fd[0], readbuffer, sizeof(readbuffer));
-		cout << "From Parent: Recieved String:" << readbuffer << endl;
+		cout << "From Parent: Recieved String: " << endl << readbuffer << endl;
 	}
 
 	return(0);
