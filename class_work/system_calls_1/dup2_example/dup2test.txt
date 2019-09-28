@@ -8,3 +8,6 @@ Does this print to console?
 I will be written to the file dup2test.txt
 I live in Menomonie
 I am Jacob Hillebrand
+I will be written to the file dup2test.txt
+I live in Menomonie
+I am Jacob Hillebrand
