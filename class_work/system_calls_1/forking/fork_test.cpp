@@ -8,13 +8,14 @@
 using namespace std;
 
 int main() {
-
+	
+	int test_int = 25;
 	pid_t pid;
 
 	pid = fork();
 
 	if (pid == 0) {
-		cout << "Child process has been created" << endl;
+		cout << "Child process has been created " << test_int << endl;
 	}
 	else if (pid < 0) {
 		cout << "No new child was created" << endl;
