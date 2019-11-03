@@ -1,0 +1,53 @@
+Test 1\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 35 (msecs)
+\nTest 2\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 34 (msecs)
+\nTest 3\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 33 (msecs)
+\nTest 4\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 36 (msecs)
+\nTest 5\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 36 (msecs)
+\nTest 6\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 27
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 36 (msecs)
+\nTest 7\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 26
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 34 (msecs)
+\nTest 8\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 25
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 33 (msecs)
+\nTest 9\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 24
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 33 (msecs)
+\nTest 10\n
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 26
+Number of accounts with less than $1000 is: 399474
+Parallel run took: 34 (msecs)
+Average Sequential Time: 25.3 msecs
+Average Parallel Time: 34.4
+Average Performance Loss?: 26.45%

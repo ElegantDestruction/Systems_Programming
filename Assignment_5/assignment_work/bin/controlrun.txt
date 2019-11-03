@@ -1,0 +1,2 @@
+Number of accounts with lss than 1000$ is: 399474
+Sequential run took in miliseconds: 27
