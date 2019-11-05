@@ -58,7 +58,7 @@ int main() {
 	//Prep openmp run
 	omp_set_dynamic(0);
 	omp_set_num_threads(4);
-#pragma omp parallel for
+#pragma omp parallel for schedule(static) reduction(+:count)
 	for (int j = 0; j < master_list.size(); j++) {
 		if (master_list[j].get_balance() < 1000) {
 			count += 1;

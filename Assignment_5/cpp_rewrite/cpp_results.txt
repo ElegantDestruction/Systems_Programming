@@ -1,0 +1,60 @@
+Test Run 1
+Number of accounts with less than $1000: 399474
+Sequential run: 31599
+Number of accounts with less than $1000: 399474
+Parallel run: 18962
+
+Test Run 2
+Number of accounts with less than $1000: 399474
+Sequential run: 31605
+Number of accounts with less than $1000: 399474
+Parallel run: 13260
+
+Test Run 3
+Number of accounts with less than $1000: 399474
+Sequential run: 31625
+Number of accounts with less than $1000: 399474
+Parallel run: 24739
+
+Test Run 4
+Number of accounts with less than $1000: 399474
+Sequential run: 31904
+Number of accounts with less than $1000: 399474
+Parallel run: 10981
+
+Test Run 5
+Number of accounts with less than $1000: 399474
+Sequential run: 31616
+Number of accounts with less than $1000: 399474
+Parallel run: 11437
+
+Test Run 6
+Number of accounts with less than $1000: 399474
+Sequential run: 31557
+Number of accounts with less than $1000: 399474
+Parallel run: 10977
+
+Test Run 7
+Number of accounts with less than $1000: 399474
+Sequential run: 31614
+Number of accounts with less than $1000: 399474
+Parallel run: 10927
+
+Test Run 8
+Number of accounts with less than $1000: 399474
+Sequential run: 31595
+Number of accounts with less than $1000: 399474
+Parallel run: 11367
+
+Test Run 9
+Number of accounts with less than $1000: 399474
+Sequential run: 31593
+Number of accounts with less than $1000: 399474
+Parallel run: 18619
+
+Test Run 10
+Number of accounts with less than $1000: 399474
+Sequential run: 31589
+Number of accounts with less than $1000: 399474
+Parallel run: 11134
+
