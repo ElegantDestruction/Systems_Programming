@@ -1,0 +1,22 @@
+For reference, the java code is within assignment_work/src and assignment_work/bin, while the 
+openmp implementation is in the cpp_rewrite. Each directory has a results.txt file, which has
+been copied to the top level with this SUMMARY file for clarity. It is also important to note
+that all of the code was run using a Fedora Linux OS.
+
+The Java implementation took an average of 25.3 milliseconds across 10 runs when calculating the
+accounts sequentially, and took an average of 34.4 milliseconds across 10 runs when calculating
+the accounts in parallel using a runnable interface to provide parallelization across threads.
+This difference is interesting to me, and I do not have an explanation as to why it took longer.
+
+The OpenMP implementation took an average of 31.6 milliseconds across 10 runs when calculating
+the accounts sequentially, and took an average of 11.1 milliseconds across 10 runs when 
+calculating the accounts in parallel with an openMP directive to provide parallelization across
+threads. I find this interesting, because it means that, by adding a header file, a single line
+to the code, and an additional compiler flag, I experienced a 64.75% performance increase in 
+my program.
+
+One last piece of information I found interesting is that the cpp program performed worse in 
+sequential than the Java program did. I do wonder if this difference in speed can be attributed
+to the fact that a Java arrayList is somehow more efficient than a cpp vector, and perhaps the 
+repeated operations with those data structures is causing the performance difference. Regardless,
+I found this assignment to be very interesting and learned more about multithreading.
